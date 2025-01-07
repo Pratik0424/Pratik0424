@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratik0424" alt="pratik0424" /></a> </p>
 
-- 🔭 I’m currently working on **.net project**
+- 🔭 I’m currently working on **full stack project**
 
 - 🌱 I’m currently learning **.net**
 
-- 👯 I’m looking to collaborate on **Frontend project work**
+- 👯 I’m looking to collaborate on **full stack project work**
 
 - 📫 How to reach me **pratikkumavat25@gmail.com**
 
